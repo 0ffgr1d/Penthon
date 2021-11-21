@@ -1,0 +1,11 @@
+fire
+terminaltables
+requests
+scapy
+netifaces
+command
+json
+pygments
+huepy
+netaddr
+ipaddress
